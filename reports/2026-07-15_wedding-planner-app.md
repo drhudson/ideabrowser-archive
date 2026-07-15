@@ -57,7 +57,18 @@ Pricing runs $29/month for a straightforward wedding and $99 for a large, comple
 
 ## Why Now
 
-Amid a rapidly growing $261.9B global wedding planning market projected to reach $755B by 2035, AI is gaining traction as engaged couples seek cost-saving, comprehensive solutions to manage 200+ wedding decisions. Existing platforms (The Knot, Zola) dominate discovery but offer checklists and directories rather than true orchestration — leaving the execution layer open.
+**Overall timing score: 9/10.** Amid a rapidly growing $261.9B global wedding planning market projected to reach $755B by 2035, AI is gaining traction as engaged couples seek cost-saving, comprehensive solutions to manage 200+ wedding decisions. Existing platforms (The Knot, Zola) dominate discovery but offer checklists and directories rather than true orchestration — leaving the execution layer open. Average wedding cost is ~$36,000 globally, and AI adoption among engaged couples is ~36% (with up to 90% open to using it).
+
+| Factor | Score | Signal |
+|---|---|---|
+| 📈 Market timing | 9 | $261.9B (2026) → up to $755B (2035) |
+| 🧠 Technological enablers | 8 | AI now handles vendor comms + budget management |
+| 🏛️ Regulatory & social | 8 | High AI acceptance, no blocking regulation |
+| 🔒 Risk reduction | 6 | 36% of couples already use AI for planning |
+| 🚀 Competitive window | 9 | Incumbents haven't integrated full-service AI |
+| 📊 Supporting data | 8 | Digital planning apps growing 15.5% CAGR |
+| ⚠️ Timing risks | 5 | AI planning still emerging — trust/consistency |
+| ⏰ Why wait = why fail | 10 | First-mover captures brand + data moat |
 
 ---
 
@@ -182,6 +193,24 @@ Rapid AI catch-up by incumbents (could bundle AI into free tools) · consumer tr
 **Bottom line:** the strongest opportunity is a **vertical, end-to-end orchestrator SaaS** — automating vendor outreach and quote evaluation, managing timelines/tasks/budgets dynamically, targeting DIY and mid-budget couples globally (starting NA + India) — moving before incumbents fully pivot.
 
 *Sources: Business Research Insights, Fortune Business Insights, Markets and Data, Technavio, Grand View Research, PRNewswire (5W report), Reddit, community data.*
+
+---
+
+## Market Gaps
+
+- **Underserved segment (9/10):** mid-budget couples ($15–40K spend) who can't justify a traditional planner but are overwhelmed by the decisions — current tools are too simplistic or too expensive.
+- **Feature gap (8/10):** comprehensive service orchestration end-to-end, versus today's checklists and directories.
+- **Geographic (7/10):** India and broader APAC growing fast with little localized AI planning.
+- **Integration (6/10):** vendor CRM and booking-system integrations that current solutions lack.
+- **Differentiation lever (9/10):** position as an AI-driven planner delivering full planner value at a fraction of the cost — untapped by current leaders.
+
+---
+
+## Founder Fit
+
+**Score: 8/10 — ideal for tech-savvy founders with AI and SaaS experience.**
+- **Best for:** solo founders with AI/SaaS expertise; teams with wedding-industry connections.
+- **Less ideal for:** non-technical founders without AI experience; founders new to the wedding industry.
 
 ---
 
